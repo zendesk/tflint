@@ -5,12 +5,12 @@ go 1.16
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/fatih/color v1.10.0
-	github.com/golang/mock v1.5.0
-	github.com/google/go-cmp v0.5.6
+	github.com/golang/mock v1.6.0
+	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/v35 v35.2.0
-	github.com/hashicorp/go-getter v1.5.3
+	github.com/hashicorp/go-getter v1.7.5
 	github.com/hashicorp/go-plugin v1.4.1
-	github.com/hashicorp/go-version v1.3.0
+	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hcl/v2 v2.10.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/terraform v0.15.3
@@ -24,6 +24,6 @@ require (
 	github.com/terraform-linters/tflint-plugin-sdk v0.8.3-0.20210614125323-8364139f3745
 	github.com/terraform-linters/tflint-ruleset-aws v0.4.1
 	github.com/zclconf/go-cty v1.8.3
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
-	golang.org/x/lint v0.0.0-20200302205851-738671d3881b
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 )
